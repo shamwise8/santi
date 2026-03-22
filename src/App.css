@@ -1,33 +1,33 @@
-/* ── DAY THEME (Light / Green) ── */
+/* ── DAY THEME (Green) ── */
 :root {
-  --bg: #F7FAF5;
-  --surface: #EDF3EA;
-  --surface-border: rgba(90, 122, 98, 0.10);
-  --accent: #4CAF6E;
-  --accent-dim: #3D9A5C;
-  --accent-glow: rgba(76, 175, 110, 0.12);
-  --hr: #E8725A;
-  --text: #1A2E1F;
+  --bg: #0A0F08;
+  --surface: #0C1209;
+  --surface-border: rgba(126, 232, 162, 0.08);
+  --accent: #7EE8A2;
+  --accent-dim: #5BC98A;
+  --accent-glow: rgba(126, 232, 162, 0.15);
+  --hr: #FF9B7A;
+  --text: #E8F5EC;
   --text-mid: #5A7A62;
-  --text-dim: #9AB4A0;
+  --text-dim: #2C3D30;
   --font: 'Cormorant Garamond', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
   --orb1: #A8F0B8;
   --orb2: #5BC98A;
 }
 
-/* ── NIGHT THEME (Dark / Blue) ── */
+/* ── NIGHT THEME (Blue) ── */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0A0E18;
-    --surface: #111828;
-    --surface-border: rgba(91, 156, 246, 0.10);
+    --bg: #050810;
+    --surface: #07091A;
+    --surface-border: rgba(91, 156, 246, 0.08);
     --accent: #5B9CF6;
     --accent-dim: #7BB8F8;
     --accent-glow: rgba(91, 156, 246, 0.15);
     --hr: #FF8A80;
     --text: #E0E8F5;
     --text-mid: #7A8FA8;
-    --text-dim: #3A4A5E;
+    --text-dim: #2A3548;
     --orb1: #7BB8F8;
     --orb2: #4FC3F7;
   }
