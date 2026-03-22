@@ -172,7 +172,7 @@ function App() {
 
         <div className="proof-grid reveal">
           <div className="proof-item">
-            <div className="proof-number" style={{ color: 'var(--hr)' }}>↓ 18</div>
+            <div className="proof-number" style={{ color: 'var(--hr)' }}>↓ 10</div>
             <div className="proof-unit">bpm average drop</div>
             <div className="proof-desc">during a single session</div>
           </div>
