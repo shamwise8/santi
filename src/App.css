@@ -1,7 +1,7 @@
 /* ── DAY THEME (Green) ── */
 :root {
-  --bg: #0A0F08;
-  --surface: #0C1209;
+  --bg: #0C1209;
+  --surface: #131E14;
   --surface-border: rgba(126, 232, 162, 0.08);
   --accent: #7EE8A2;
   --accent-dim: #5BC98A;
@@ -18,8 +18,8 @@
 /* ── NIGHT THEME (Blue) ── */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #050810;
-    --surface: #07091A;
+    --bg: #07091A;
+    --surface: #0E1228;
     --surface-border: rgba(91, 156, 246, 0.08);
     --accent: #5B9CF6;
     --accent-dim: #7BB8F8;
