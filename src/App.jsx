@@ -58,10 +58,7 @@ function App() {
 
         <div className="features reveal">
           <div className="feature-card">
-            <div
-              className="feature-icon"
-              style={{ background: 'radial-gradient(circle at 38% 35%, #A8F0B8AA, #5BC98A55)' }}
-            ></div>
+            <div className="feature-icon feature-icon--accent"></div>
             <div className="feature-title">breathe</div>
             <div className="feature-desc">
               Precision haptic guides your breath through your wrist. Eyes closed.
@@ -69,10 +66,7 @@ function App() {
             </div>
           </div>
           <div className="feature-card">
-            <div
-              className="feature-icon"
-              style={{ background: 'radial-gradient(circle at 38% 35%, #FF9B7AAA, #FF9B7A44)' }}
-            ></div>
+            <div className="feature-icon feature-icon--hr"></div>
             <div className="feature-title">the proof</div>
             <div className="feature-desc">
               Watch your heart rate drop in real-time. After the session, see
@@ -81,10 +75,7 @@ function App() {
             </div>
           </div>
           <div className="feature-card">
-            <div
-              className="feature-icon"
-              style={{ background: 'radial-gradient(circle at 38% 35%, #2B7CB8AA, #2B7CB844)' }}
-            ></div>
+            <div className="feature-icon feature-icon--cool"></div>
             <div className="feature-title">check in</div>
             <div className="feature-desc">
               Turn the Digital Crown to find your color. Nine emotional states
