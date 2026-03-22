@@ -249,8 +249,8 @@ section {
 }
 
 .planet-dot {
-  width: 44px;
-  height: 44px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -260,9 +260,9 @@ section {
 }
 
 .planet-label {
-  font-size: 11px;
+  font-size: 13px;
   letter-spacing: 0.1em;
-  color: var(--text-dim);
+  color: var(--text-mid);
 }
 
 /* ── QUOTE ── */
